@@ -1,6 +1,4 @@
 //your JS code here. If required.
-//your JS code here. If required.
-// Start Game events and data changes
 const button = document.querySelectorAll('div>button');
 var player1, player2;
 button[0].addEventListener('click', submitFunc);
